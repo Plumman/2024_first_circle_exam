@@ -10,4 +10,6 @@ enter in terminal
     
 run all the cells in exam_continuous_pipeline.ipynb
 
+Data Exploration is in "Basic Analysis" of the Python notebook
+
 
